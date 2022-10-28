@@ -1,4 +1,4 @@
-# Data0Driven Mathematical Optimization in Python
+# Data-Driven Mathematical Optimization in Python
 
 WWelcome to this collection of repositories for Data-Driven Mathematical Optimization in Python, a project currently under development with completion expected by Fall, 2022. The goals of these project are to
 
